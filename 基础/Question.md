@@ -21,6 +21,8 @@
 - flex布局优点
 - 你知道的css模块化方案
 - 响应式布局有哪些方案
+- animation和transition的区别
+- translate和position的区别
 - 物理像素和逻辑像素的区别  
 # webpack
 - 都有哪些配置

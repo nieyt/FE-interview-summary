@@ -47,24 +47,3 @@ function throttle(fn, threshhold) {
     }
   }
 
-
-
-  // function throttle1(fn, delay) {
-  //   var timer
-  //   var last
-  //   return function() {
-  //     var _this = this
-  //     var args = arguments
-  //     var now = +new Date()
-  //     if (last && last+delay < now){
-  //       clearTimeout(timer)
-  //       last = now
-  //       timer = setTimeout(function() {
-  //         fn.apply(_this, args)
-  //       }, delay)
-  //     } else {
-  //       last = now
-  //       fn.apply(_this, args)
-  //     }
-  //   }
-  // }
