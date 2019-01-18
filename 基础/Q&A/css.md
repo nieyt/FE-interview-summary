@@ -10,7 +10,7 @@
 - 弹性元素
 - 网格元素   
 ...  
-https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Block_formatting_context
+https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Block_formatting_context  
 BFC的布局规则：  
 
 应用：  
